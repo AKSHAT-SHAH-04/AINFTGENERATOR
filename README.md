@@ -1,4 +1,4 @@
-# AI NFT Generator
+# AI NFT Generator With Smart Contracts
 
 ## Technology Stack & Tools
 
